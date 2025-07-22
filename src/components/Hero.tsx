@@ -3,7 +3,7 @@ import { FaGithub } from 'react-icons/fa';
 
 const Hero: React.FC = () => {
   return (
-    <section id="hero" className="min-h-screen flex items-center bg-background pl-24 pt-24 md:pt-0">
+    <section id="hero" className="min-h-screen flex items-center bg-background xl:pl-24 pt-24 md:pt-0">
       <div className="container mx-auto px-6 flex flex-col-reverse md:flex-row items-center justify-between">
         <div className="md:w-1/2 text-center md:text-left">
           <h1 className="text-4xl md:text-6xl font-bold text-text-primary leading-tight mb-4">
